@@ -48,6 +48,7 @@ Adopting SAP workloads in the cloud incorporates and addresses most of the metho
 
 ## Next steps
 
+hello
 The following articles provide guidance for specific points throughout the cloud adoption journey to help you succeed in adopting SAP in Azure.
 
 - [Strategic impact of SAP in the cloud](./strategy.md)
